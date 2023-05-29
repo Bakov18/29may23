@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock>Пример работы с GitHub.</TextBlock>
+        <TextBlock>Второй commit.</TextBlock>
     </Grid>
 </Window>
